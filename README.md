@@ -6,7 +6,7 @@
 I'm a self-taught passionate FrontEnd👨🏻‍💻 developer from Iran 
 </P>
   
-<img  align='right' height='300px' width='370px' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' />
+<img  align='right' height='300px' width='365px' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' />
 
 ```javascript
 const response = {
@@ -16,6 +16,7 @@ const response = {
   data: {
     fullName: "sina karimi",
     birthDay: "1998 Agust 22, Saturday",
+location: "Iran, Urmia",
     university: "Payam-e-Noor University",
     hobbies: ["podcast", "book", "movie", "hiking", "Video Game"],
     skills: ["JavaScript", "ReactJS, "Redux"],
