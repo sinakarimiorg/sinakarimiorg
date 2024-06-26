@@ -25,5 +25,10 @@ attempt to acquire it",
   },
 };
 ```
-
-
+<hr>
+<h4>
+🛠️ Languages and Tools :
+</h4>
+<p align='center'>
+  <img src='https://skillicons.dev/icons?i=html,css,sass,js,materialui,react,redux'/>
+</p>
