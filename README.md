@@ -6,7 +6,7 @@
 I'm a self-taught passionate FrontEnd👨🏻‍💻 developer from Iran 
 </P>
   
-<img  align='right' height='300px' width='450px' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' />
+<img  align='right' height='300px' width='400px' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' />
 
 ```javascript
 const response = {
@@ -20,7 +20,7 @@ const response = {
     hobbies: ["podcast", "book", "movie", "hiking", "Video Game"],
     skills: ["JavaScript", "ReactJS, "Redux"],
     quote: "Wisdom is not a product of schooling but of the lifelong
- attempt to acquire it",
+attempt to acquire it",
   },
 };
 ```
