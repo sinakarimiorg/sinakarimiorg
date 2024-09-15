@@ -30,5 +30,5 @@ attempt to acquire it",
 🛠️ Languages and Tools :
 </h4>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,materialui,react,redux,regex,git'/>
+  <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,materialui,tailwind,react,redux,regex,git'/>
 </p>
