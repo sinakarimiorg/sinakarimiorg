@@ -1,4 +1,5 @@
-<img height='100px' style="align:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hello,+There!+👋;This+is+Sina...;Nice+to+meet+you!+🫰" alt="Typing SVG" />
+<img  height='100px' style="align:center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hello,+There!+👋;This+is+Sina...;Nice+to+meet+you!+🫰" alt="Typing SVG" />
+
 </h1>
 <h3 >👨‍💻About Me :</h3>
 <P>
@@ -19,7 +20,7 @@ const response = {
     location: "Iran, Urmia",
     university: "Payam-e-Noor University",
     hobbies: ["podcast", "book", "movie", "hiking", "Video Game"],
-    skills: ["JavaScript", "ReactJS, "Redux"],
+    skills: ["JavaScript", "TypeScript", "ReactJS, "Next.js", "Redux"],
     quote: "Wisdom is not a product of schooling but of the lifelong
 attempt to acquire it",
   },
@@ -30,5 +31,5 @@ attempt to acquire it",
 🛠️ Languages and Tools :
 </h4>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,materialui,tailwind,react,redux,regex,git'/>
+  <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,tailwind,git,js,ts,react,next,redux,regex'/>
 </p>
